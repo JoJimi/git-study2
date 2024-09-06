@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.gitstudy2.GitStudy2ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-06T03:33:03" hostname="DESKTOP-N8OSBS2" time="1.406">
+  <properties/>
+  <testcase name="contextLoads()" classname="org.example.gitstudy2.GitStudy2ApplicationTests" time="1.406"/>
+  <system-out><![CDATA[12:33:01.150 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.example.gitstudy2.GitStudy2ApplicationTests]: GitStudy2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:33:01.410 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.example.gitstudy2.GitStudy2Application for test class org.example.gitstudy2.GitStudy2ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.3)
+
+2024-09-06T12:33:02.196+09:00  INFO 5300 --- [git-study2] [    Test worker] o.e.gitstudy2.GitStudy2ApplicationTests  : Starting GitStudy2ApplicationTests using Java 21.0.2 with PID 5300 (started by duddnddnfl in C:\Users\duddnddnfl\Study\git-study2)
+2024-09-06T12:33:02.198+09:00  INFO 5300 --- [git-study2] [    Test worker] o.e.gitstudy2.GitStudy2ApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-09-06T12:33:03.125+09:00  INFO 5300 --- [git-study2] [    Test worker] o.e.gitstudy2.GitStudy2ApplicationTests  : Started GitStudy2ApplicationTests in 1.452 seconds (process running for 3.599)
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\duddnddnfl\.gradle\caches\modules-2\files-2.1\net.bytebuddy\byte-buddy-agent\1.14.19\154da3a65b4f4a909d3e5bdec55d1b2b4cbb6ce1\byte-buddy-agent-1.14.19.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
