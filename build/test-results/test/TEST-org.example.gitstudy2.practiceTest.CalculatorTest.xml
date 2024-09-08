@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.gitstudy2.practiceTest.CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-08T08:55:01" hostname="DESKTOP-N8OSBS2" time="0.066">
+  <properties/>
+  <testcase name="[1] a=-10, b=5" classname="org.example.gitstudy2.practiceTest.CalculatorTest" time="0.053"/>
+  <testcase name="[2] a=5, b=-10" classname="org.example.gitstudy2.practiceTest.CalculatorTest" time="0.002"/>
+  <testcase name="[3] a=-10, b=-10" classname="org.example.gitstudy2.practiceTest.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
